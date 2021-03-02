@@ -1,0 +1,69 @@
+main {
+   font-family: system-ui;
+   border-size: 20%;
+  border-style: grey
+ 
+}
+.logo h1{
+    text-align: center;
+        float :center;
+     font-size:500%
+  
+}
+
+.logo{
+  background-image:url(https://github.com/sinbrive/devoir-calc-ip-via-web/blob/main/img/subnet3.png?raw=true);
+}
+h1{
+         color: orange; 
+  
+}
+.leftright{
+  column-count: 3;
+    column-gap: 1%; 
+}
+.enter p, .results p{
+     font-size:130%;
+   font-weight:40%;
+        color :#7e7e7e;
+    margin-top:
+}
+.enter span{
+         float: left;
+  margin-right:40%;
+}
+.enter input{
+         float:right;
+   margin-left:3%;
+}
+.results p{
+  margin-right:10%;
+    margin-top:20%
+}
+.results span{
+         float: left;
+  margin-right:25%;
+}
+.results input{
+         float: right;
+   margin-left:15%; 
+}
+
+.results .bits input{
+         float:right;  
+}
+.results .bits span{
+         float:left;
+  margin-right:40%;
+ 
+}
+.results span{
+         float:left;
+}
+.results .bits span,.bits input{
+    margin-top:2%;
+}
+footer{
+    text-align:center;
+    margin-top: 40%;
+}
